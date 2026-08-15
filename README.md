@@ -1,42 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050510,40:0a0f2e,70:0d1545,100:050510&height=280&section=header&text=M.%20SAGAR&fontSize=64&fontColor=00D4FF&fontAlignY=50&desc=ASPIRING%20SOFTWARE%20ENGINEER%20%7C%20JAVA%20%7C%20DSA%20%7C%20AI%2FML&descSize=16&descAlignY=72&descColor=7FDBFF&stroke=00D4FF&strokeWidth=2&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&text=Hi,%20I'm%20M.%20Sagar%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Aspiring%20Software%20Engineer%20•%20Java%20•%20DSA%20•%20AI/ML%20•%20Full%20Stack&descSize=17&descColor=FFFFFF&descAlignY=65&color=0:050510,50:11182F,100:162044" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=%24+solving+DSA+problems+--java;%24+building+AI%2FML+projects;%24+developing+full-stack+applications;%24+learning+spring-boot+--react+--cloud;%24+status%3A+always_building+%7C+always_learning" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=9CC3FF&center=true&vCenter=true&width=900&lines=B.Tech+%E2%80%93+Computer+Science+%26+Artificial+Intelligence;%24+solving+DSA+problems+--+java;%24+building+AI%2FML+projects;%24+developing+full-stack+applications;%24+status%3A+always_building+%7C+always_learning" alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/m-sagar-2108b22ba">
-<img src="https://img.shields.io/badge/LINKEDIN-00D4FF?style=for-the-badge&logo=linkedin&logoColor=050510"/>
+<img src="https://img.shields.io/badge/LINKEDIN-19172E?style=for-the-badge&logo=linkedin&logoColor=9CC3FF"/>
 </a>
 
 <a href="https://github.com/M-Sagar14">
-<img src="https://img.shields.io/badge/GITHUB-050510?style=for-the-badge&logo=github&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/GITHUB-19172E?style=for-the-badge&logo=github&logoColor=9CC3FF"/>
 </a>
 
 <a href="https://inquisitive-cheesecake-7ecf07.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-050510?style=for-the-badge&logo=netlify&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-19172E?style=for-the-badge&logo=netlify&logoColor=9CC3FF"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=M-Sagar14&label=PROFILE%20VISITORS&color=00D4FF&style=for-the-badge&labelColor=050510"/>
+<img src="https://komarev.com/ghpvc/?username=M-Sagar14&label=VISITORS&color=9CC3FF&style=for-the-badge&labelColor=19172E"/>
 
 </div>
-
-
-<div align="center">
-
-
-
-# 👋 Hi, I'm M. Sagar
-
-### 🚀 Aspiring Software Engineer | Java | DSA | AI/ML | Full Stack
-
-**B.Tech – Computer Science & Artificial Intelligence**
-
-</div>
-
 ---
 
 <div align="center">
@@ -110,11 +96,9 @@ Become a strong Software Engineer and build a career in a product-based company.
 | ☕ | Java & DSA problem solving |
 | 🤖 | AI/ML & Generative AI projects |
 | 🌐 | Full-stack / frontend development |
-| 🏆 | Deloitte HackNow India 2026 |
 | 🚦 | Urban Traffic Incident Management |
 | 🎤 | Voice Based Concept Understanding Analyser |
 | ⚙️ | ServiceNow Administration & Development |
-| ☁️ | Google Cloud Generative AI project |
 
 ---
 
@@ -134,25 +118,6 @@ An AI-powered application designed to analyze spoken explanations and evaluate c
 **Workflow**
 
 `Voice Input` → `Speech Recognition` → `Concept Analysis` → `Semantic Understanding` → `Feedback / Report`
-
----
-
-## 🚦 Urban Traffic Incident Management
-
-A hackathon solution focused on improving the management and response process for urban traffic incidents.
-
-**Hackathon:** Deloitte HackNow India 2026
-
-**Role:** Team Leader / Frontend Developer
-
-### Focus Areas
-
-- 🚦 Traffic incident management
-- 📊 Incident monitoring
-- 🗺️ Response workflow
-- 👥 User-friendly interfaces
-- 🗄️ Data management
-- ⚙️ ServiceNow concepts
 
 ---
 
@@ -177,29 +142,79 @@ A responsive web application for discovering, exploring and registering for tech
 </div>
 
 ---
-
 # 🧠 Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark&perline=5"/>
+<p>
+<img src="https://img.shields.io/badge/PYTHON-19172E?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JAVA-19172E?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-19172E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/SQL-19172E?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/HTML5-19172E?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-19172E?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
 
-### 🌐 Web Development
+### 🤖 AI · ML · LLM · Data Science
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,django&theme=dark&perline=5"/>
+<p>
+<img src="https://img.shields.io/badge/PYTORCH-19172E?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/HUGGING%20FACE-19172E?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-19172E?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-19172E?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/OPENCV-19172E?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/PANDAS-19172E?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/NUMPY-19172E?style=for-the-badge&logo=numpy&logoColor=013243"/>
+</p>
 
-### 🤖 AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark&perline=5"/>
+### ⚙️ Backend · Frontend · DevOps
 
-### 🛠️ Tools
+<p>
+<img src="https://img.shields.io/badge/SPRING%20BOOT-19172E?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/REACT-19172E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MYSQL-19172E?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/GIT-19172E?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/POSTMAN-19172E?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark&perline=5"/>
+<br>
+
+<!-- Language Icons -->
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark&perline=6"/>
+</p>
+
+<br>
+
+<!-- AI / ML Icons -->
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,pandas,numpy&theme=dark&perline=5"/>
+</p>
+
+<br>
+
+<!-- Web / Backend Icons -->
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,spring,mysql&theme=dark&perline=6"/>
+</p>
+
+<br>
+
+<!-- DevOps / Tools Icons -->
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,eclipse,powerbi,servicenow&theme=dark&perline=5"/>
+</p>
 
 </div>
 
+---
 ---
 
 # 📚 Currently Learning
@@ -239,28 +254,6 @@ Currently strengthening problem-solving skills using **Java**.
 
 ---
 
-# 🏅 Certifications & Learning
-
-- 🟢 **ServiceNow Certified System Administrator (CSA)**
-- 🟢 **ServiceNow Application Development Fundamentals**
-- 🟢 **Digital Application Fundamentals (STEM) – NASSCOM**
-- ☁️ **Google Cloud Generative AI Internship / Project**
-- ☁️ **AWS Cloud learning and foundational coursework**
-
----
-
-# 🏆 Hackathons
-
-<div align="center">
-
-| 🏆 Event | 💡 Project | 👨‍💻 Role |
-|:---:|:---:|:---:|
-| Deloitte HackNow India 2026 | Urban Traffic Incident Management | Team Leader / Frontend |
-
-</div>
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -294,20 +287,6 @@ Currently strengthening problem-solving skills using **Java**.
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
----
-
-# 🎯 2026 Goals
-
-- [x] Build real-world projects
-- [x] Participate in hackathons
-- [x] Learn modern development technologies
-- [ ] Master Data Structures & Algorithms
-- [ ] Strengthen Java development
-- [ ] Build stronger AI/ML projects
-- [ ] Improve Full Stack skills
-- [ ] Learn Spring Boot deeply
-- [ ] Prepare for product-based company placements
 
 ---
 
